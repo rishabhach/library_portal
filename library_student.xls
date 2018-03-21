@@ -1,0 +1,12 @@
+"id"	"first_name"	"last_name"	"branch"	"category"	"email"	"roll_number"	"max_no_book_issue"	"number_of_issued_books"
+1	"rishabh"	"acharya"	"mining"	"OBC"	"rishabh.acharya.min15@itbhu.ac.in"	15155063	3	1
+2	"abhishek"	"viraj"	"mining"	"sc"	"abhishek.viraj.min15@itbhu.ac.in"	15155006	5	0
+4	"bheru"	"lal mali"	"mining"	"OBC"	"BLmali15@itbhu.ac.in"	15155020	3	0
+6	"hitesh"	"paliwal"	"mining"	"general"	"hitesh.paliwal.min15@itbhu.ac.in"	15155030	3	0
+7	"vishvendra"	"singh"	"dagur"	"OBC"	"dagur@itbhu.ac.in"	15155081	3	0
+8	"arun"	"marothia"	"mining"	"OBC"	"mutti@itbhu.ac.in"	15155018	3	0
+9	"rakesh"	"ranjan"	"mining"	"st"	"ranjan@itbhu.ac.in"	15155058	5	0
+10	"nimba ram"	"bugaliya"	"mining"	"sc"	"bugaliya@itbhu.ac.in"	15154010	5	2
+11	"yash"	"krish"	"physics"	"st"	"yesh@itbhu.ac.in"	16151021	5	0
+12	"mahaveer"	"prasad acharya"	"mining"	"OBC"	"mahaveer@gmail.com"	12345678	3	0
+13	"chandra prakash"	"meghwal"	"mining"	"SC/ST"	"chandu@gmail.com"	15155021	5	0
